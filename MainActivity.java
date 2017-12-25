@@ -1,7 +1,8 @@
 package helloworld.example.com.litianxiang20171225;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -14,6 +15,15 @@ public class MainActivity extends AppCompatActivity {
 
     //视频
     public void video(){
+
+    }
+
+    /**
+     * feature-1
+     * display HelloWorld
+     * @param view
+     */
+    public void feature1(View view) {
 
     }
 }
